@@ -1,3 +1,14 @@
 {
-    "cc": "cc"
+    "material": [
+        {
+            "name": "Filament blanc Amazon",
+            "price": 19.99,
+            "devise": "€"
+        },
+        {
+            "name": "Filament rouge Amazon",
+            "price": 29.99,
+            "devise": "€"
+        }
+    ]
 }
